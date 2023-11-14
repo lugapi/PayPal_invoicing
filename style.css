@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+  }
+
+  pre {
+    text-align: start;
+  }
+
+  #response {
+    padding: 5% 0;
+  }
+
+  .action,
+  .view,
+  #error {
+    visibility: hidden;
+  }
+
+  #sendInvoiceBtn,
+  #generateQRBtn {
+    visibility: hidden;
+  }
